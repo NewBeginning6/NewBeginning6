@@ -1,1 +1,4 @@
-![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewBeginning6)
+
+![](https://github-readme-stats.vercel.app/api?username=k8gege)
+
+
